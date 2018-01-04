@@ -1,0 +1,30 @@
+{
+  "name": "sudoku-solver",
+  "version": "1.0.0",
+  "description": "AI for solving sudoku puzzles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewKoliaka/Sudoku-solver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewKoliaka/Sudoku-solver/issues"
+  },
+  "homepage": "https://github.com/AndrewKoliaka/Sudoku-solver#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babelify": "^8.0.0",
+    "browserify": "^14.5.0",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.2.0",
+    "vinyl-source-stream": "^2.0.0"
+  }
+}
